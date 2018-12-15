@@ -3,7 +3,7 @@ title: 'Fun coding with a me, the ifelse guy'
 subtitle: 'Fun coffee with a me, the ifelse guy'
 image: /img/ifelse.gif
 blurb:
-  heading: Why Kaldi?
+  heading: 'What is (if){ else }'
   text: >-
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
