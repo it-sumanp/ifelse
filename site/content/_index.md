@@ -1,7 +1,7 @@
 ---
-title: Great coffee with a mee
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: 'Fun coding with a me, the ifelse guy'
+subtitle: 'Fun coffee with a me, the ifelse guy'
+image: /img/ifelse.gif
 blurb:
   heading: Why Kaldi?
   text: >-
